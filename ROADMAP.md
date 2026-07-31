@@ -1,24 +1,60 @@
-# Roadmap
+# Screen Fabricator Roadmap
 
 ## V07.1
 
-Focus:
+Primary Focus
+
+- Pilot-testing feedback
 - Bug fixes
-- Pilot feedback
-- UI refinements
+- Usability refinements
+- Interface consistency
+- Guidance improvements
 
 ## V08
 
-Possible Features:
+Potential Features
 
-- Tool import
+- Tool import from JSON
+- Enhanced Scoring Simulator
+- Example tool library
+- Additional scoring options
+- Richer recommendation formats
+
+## Future Enhancements
+
+### Collaboration
+
+- Shared repositories of tools
+- Tool version comparison
+- Collaborative development workflows
+
+### Reporting
+
 - PDF exports
-- Improved recommendations
-- Tool templates
-- Example library
+- Printable summaries
+- Audit-ready documentation
 
-## Future
+### Templates
 
-- Shared tool repositories
-- Collaborative editing
-- Organization-wide deployment
+- Depression screening
+- Anxiety screening
+- Suicide-risk triage
+- Intake screening
+- Research eligibility screening
+
+### Deployment
+
+- Organizational deployments
+- Internal hospital deployments
+- Azure-hosted implementations
+
+## Future Documentation
+
+- User Manual
+- Administrator Guide
+- Example Workflows
+- JSON Tool Definition Reference
+
+## Guiding Principle
+
+Prioritize usability, transparency, and clinician experience over technical complexity.
