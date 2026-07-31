@@ -7,19 +7,25 @@
 - JSON export
 - Tool Summary
 - Interpretation section
-- Improved Home page
+- Expanded home page
 - Empty-state messaging
+- Visible in-app guidance
+- Simplified result presentation
 
 ### Changed
 
-- Updated branding to V07
-- Simplified results display
+- Rebranded as V07
 - Improved Safety Alert visibility
-- Added field guidance
+- Simplified output formatting
+- Improved terminology
+
+### Restored
+
+- Scoring Simulator
 
 ### Fixed
 
-- Browser tab version mismatch
+- Browser-tab version mismatch
 - Duplicate instruction display
 
 ---
@@ -28,24 +34,41 @@
 
 Pilot predecessor.
 
+Major themes:
+
+- Shared response templates
+- Reverse scoring
+- Safety indicators
+- Recommendations framework
+
 ---
 
 ## V05
 
-Earlier prototype release.
+Usability-focused release.
+
+Introduced:
+
+- Expanded Home page
+- Improved Safety Alert presentation
+- Additional workflow guidance
 
 ---
 
 ## V04
 
+Major architectural milestone.
+
 Introduced:
-- Symptom Elevation model
-- Safety Alerts
+
+- Symptom Elevation framework
+- Safety Alert framework
+- Questionnaire-based scoring
+- Total Score Entry workflows
 - Scoring Simulator
-- Total Score Entry mode
 
 ---
 
 ## V03
 
-Original questionnaire builder prototype.
+Initial questionnaire-builder prototype.
