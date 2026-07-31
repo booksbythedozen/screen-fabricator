@@ -66,3 +66,12 @@ CHANGELOG.md
 ROADMAP.md
 PILOT_TESTING_GUIDE.md
 LICENSE
+
+---
+
+Screen Fabricator
+
+Copyright (C) 2026 Bryce P Mulligan, PhD, CPsych
+
+Licensed under the GNU General Public License (GPL).
+See LICENSE for details.
