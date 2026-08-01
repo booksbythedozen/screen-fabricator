@@ -46,7 +46,7 @@ Potential Features
 
 - Organizational deployments
 - Internal hospital deployments
-- Azure-hosted implementations
+- Individual clinicians/clinics
 
 ## Future Documentation
 
