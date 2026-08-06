@@ -1,8 +1,21 @@
 BUGS
-Things that do not work correctly.
+[Things that do not work correctly.]
 
 USABILITY
-Things that work but are confusing.
+[Things that work but are confusing.]
+
+-It's unclear to me how you would use this tool to define a workflow
+-I suggest defining "Questionnaire-based scoring" and "Total Score Entry"
+-People who aren't used to developing a questionnaire might not know what you mean by reverse scored
+-More explanations for people less familiar with designing questionnaires
+-I like the "Safety indicator" option - who is alerted when someone answers an item to trigger this?  Perhaps indicate this or explain this
+-I think you need more instructions for people who aren't used to this kind of thing.  For example, when you have to indicate "Score" - explain to people that this will contribute to the total score that is calculated.  I know it seems intuitive to us, but it might not to others
+-Explain what you mean by Low Symptom Elevation (etc.)
+-Where do the tools end up?
+
 
 ENHANCEMENTS
-Ideas that would make the tool even better.
+[Ideas that would make the tool even better.]
+
+-Making it look (visually) more appealing and slick (probably the wrong word, but essentially I mean making the text and background look more designer-like
+-Will people see a list of available tools that they can choose from?
